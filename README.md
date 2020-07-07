@@ -2,7 +2,7 @@
 - 사용 언어 : JAVA
 - https://code.plus/course/41<br>
 
-1. 자료 구조 1\
+<h1>1. 자료 구조 1</h1>
 
 
 |문제|풀이|
