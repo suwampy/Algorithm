@@ -17,3 +17,4 @@
 |[10866. 덱](https://www.acmicpc.net/problem/10866)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/Day4/Day4_10866_Deque.java)|
 |[10866. 단어 뒤집기 2](https://www.acmicpc.net/problem/107413)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/Day4/Day4_17413_WordFlip2.java) 모르겠음 나중에풀자|
 |[10799. 쇠막대기](https://www.acmicpc.net/problem/10799)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/Day4/Day4_10799_IronBar.java)|
+|[17298. 오큰수](https://www.acmicpc.net/problem/17298)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/Day5/Day5_17298.java)|
