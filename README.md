@@ -1,5 +1,5 @@
 ## 알고리즘 입문 정리
-
+[1. 기본 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
 
 
 
