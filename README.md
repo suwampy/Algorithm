@@ -1,3 +1,11 @@
+## 알고리즘 입문 정리
+[1. 기본 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
+
+
+
+
+
+
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
 - 사용 언어 : JAVA
 - https://code.plus/course/41<br>
