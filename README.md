@@ -1,6 +1,6 @@
 ## 알고리즘 입문 정리
-[1. 기본 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
-
+[1. 기본 알고리즘 - 반복](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
+[2. 기본 자료구조 - 배열, 클래스](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/02.Structure.md)
 
 
 
