@@ -3,11 +3,11 @@
 
 [2. 기본 자료구조 - 배열, 클래스](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/02.Structure.md)
 
-[3.1 검색 - 검색 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/01.SearchAlgorithm.md)
+[3-1. 검색 - 검색 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/01.SearchAlgorithm.md)
 
-[3.2 검색 - 선형 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/02.LinearsSearch.md)
+[3-2. 검색 - 선형 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/02.LinearsSearch.md)
 
-[3.3 검색 - 이진 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/03.BinarySearch.md)
+[3-3. 검색 - 이진 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/03.BinarySearch.md)
 
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
 - 사용 언어 : JAVA
