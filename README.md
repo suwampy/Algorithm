@@ -11,7 +11,7 @@
 
 [3-1. 스택과 큐 - 스택](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/01.Stack.md)
 
-[3-2. 스택과 큐 - 큐(https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/02.Que.md)
+[3-2. 스택과 큐 - 큐](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/02.Que.md)
 
 
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
