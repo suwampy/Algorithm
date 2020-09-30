@@ -1,4 +1,6 @@
 ## 알고리즘 입문 정리
+![book](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F562LZ%2FbtqJTFsxH2Z%2FfJIh5HerjbA5u3z82YQkwk%2Fimg.jpg)
+
 [1-1. 기본 알고리즘 - 반복](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
 
 [1-2. 기본 자료구조 - 배열, 클래스](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/02.Structure.md)
@@ -13,6 +15,7 @@
 
 [3-2. 스택과 큐 - 큐](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/02.Que.md)
 
+[4-1. 재귀 - 재귀 기본](https://github.com/suwanyu/Algorithm/blob/master/document/04.Recursive/01.Recursive.md)
 
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
 - 사용 언어 : JAVA
