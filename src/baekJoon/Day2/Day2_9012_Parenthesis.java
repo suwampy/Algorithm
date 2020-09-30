@@ -1,4 +1,4 @@
-package Day2;
+package baekJoon.Day2;
 
 import java.util.Scanner;
 import java.util.Stack;

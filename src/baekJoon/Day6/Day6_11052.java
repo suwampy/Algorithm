@@ -1,4 +1,4 @@
-package Day6;
+package baekJoon.Day6;
 
 import java.util.Scanner;
 

@@ -1,7 +1,6 @@
-package Day4;
+package baekJoon.Day4;
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Day4_10866_Deque {

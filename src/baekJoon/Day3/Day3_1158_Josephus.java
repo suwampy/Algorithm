@@ -1,4 +1,4 @@
-package Day3;
+package baekJoon.Day3;
 import java.util.*;
 public class Day3_1158_Josephus {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package Day5;
+package baekJoon.Day5;
 
 import java.io.*;
-import java.util.Scanner;
 import java.util.Stack;
 
 public class Day5_17298 {
