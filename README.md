@@ -1,13 +1,18 @@
 ## 알고리즘 입문 정리
-[1. 기본 알고리즘 - 반복](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
+[1-1. 기본 알고리즘 - 반복](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/01.Basic.md)
 
-[2. 기본 자료구조 - 배열, 클래스](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/02.Structure.md)
+[1-2. 기본 자료구조 - 배열, 클래스](https://github.com/suwanyu/Algorithm/blob/master/document/01.DataStructure/02.Structure.md)
 
-[3-1. 검색 - 검색 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/01.SearchAlgorithm.md)
+[2-1. 검색 - 검색 알고리즘](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/01.SearchAlgorithm.md)
 
-[3-2. 검색 - 선형 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/02.LinearsSearch.md)
+[2-2. 검색 - 선형 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/02.LinearsSearch.md)
 
-[3-3. 검색 - 이진 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/03.BinarySearch.md)
+[2-3. 검색 - 이진 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/03.BinarySearch.md)
+
+[3-1. 스택과 큐 - 스택](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/01.Stack.md)
+
+[3-2. 스택과 큐 - 큐](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/02.Que.md)
+
 
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
 - 사용 언어 : JAVA
