@@ -15,6 +15,8 @@
 
 [4-1. 재귀 - 재귀 기본](https://github.com/suwanyu/Algorithm/blob/master/document/04.Recursive/01.Recursive.md)
 
+[5-2. 재귀 - 재귀 분석](https://github.com/suwanyu/Algorithm/blob/master/document/04.Recursive/02.Recursive_2.md)
+
 ## 백준 알고리즘 풀이 (기초 인데 어렵네. . .)
 - 사용 언어 : JAVA
 - https://code.plus/course/41<br>
