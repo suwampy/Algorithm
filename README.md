@@ -9,9 +9,9 @@
 
 [2-3. 검색 - 이진 검색](https://github.com/suwanyu/Algorithm/blob/master/document/02.Search/03.BinarySearch.md)
 
-[3-1. 스택과 큐 - 스택](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/01.Stack.md)
+[3-1. 스택과 큐 - 스택](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQueue/01.Stack.md)
 
-[3-2. 스택과 큐 - 큐](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQue/02.Que.md)
+[3-2. 스택과 큐 - 큐](https://github.com/suwanyu/Algorithm/blob/master/document/03.StackQueue/02.Que.md)
 
 [4-1. 재귀 - 재귀 기본](https://github.com/suwanyu/Algorithm/blob/master/document/04.Recursive/01.Recursive.md)
 
