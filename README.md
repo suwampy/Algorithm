@@ -50,3 +50,5 @@
 |1|[수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/subak.java)|
 |1|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/Sum.java)|
 |1|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/ExhaustiveSearch01.java)|
+|1|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/EvenAndOdd.java)|
+|1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/RectangleStars.java)|
