@@ -53,3 +53,5 @@
 |1|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/EvenAndOdd.java)|
 |1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/RectangleStars.java)|
 |1|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/IHateTheSameNumber.java)|
+|1||[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/_2016.java)|
+|1||[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/GetTheMiddleChar.java)|
