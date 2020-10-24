@@ -55,3 +55,7 @@
 |1|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/IHateTheSameNumber.java)|
 |1|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/_2016.java)|
 |1|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/GetTheMiddleChar.java)|
+|1|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/HandlingStrings.java)|
+|1|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/ReplaceWithStringInteger.java)|
+|1|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/AddDigits.java)|
+|1|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/FindingTheAvg.java)|
