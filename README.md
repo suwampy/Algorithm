@@ -59,3 +59,5 @@
 |1|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/ReplaceWithStringInteger.java)|
 |1|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/AddDigits.java)|
 |1|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/FindingTheAvg.java)|
+|1|[문자열 내맘대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/DividedNumberArray.java)|
+|1|[문자열 내 p와 y의 수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[풀이](https://github.com/suwanyu/Algorithm/blob/master/src/programmers/level1/NumberOfPAndY.java)|
